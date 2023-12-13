@@ -1,11 +1,11 @@
 {
   "name": "codember-2023",
   "version": "1.0.0",
-  "description": "$ cat CHALLENGE_01.txt\r ** El reto **\r Un espía está enviando mensajes encriptados.",
+  "description": "My solutions to codember-2023",
   "main": "challenge01.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Franz04Rony",
   "license": "ISC"
 }
