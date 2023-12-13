@@ -13,7 +13,7 @@ const checkPassword = (data) => {
             invalidates.push(password[2])
         }
     })
-    return invalidates[41]
+    return invalidates[12]
 }
 
 data = `8-10 r: ozrcdfnug
