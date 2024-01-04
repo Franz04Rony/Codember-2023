@@ -1,5 +1,5 @@
 # Codember 2023
-Mis soluciones a codember-2023 utilizando javascript
+Mis soluciones a codember-2023 utilizando JavaScript y Nodejs.
 # ToDo
-- [ ] Leer datos desde archivos .txt
-- [ ] Mejorar readme.md
+- [x] Leer datos desde archivos .txt
+- [ ] Mejorar readme.md (En proceso)
