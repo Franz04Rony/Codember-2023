@@ -1,3 +1,7 @@
+import {readFileSync} from 'fs'
+
+const data = readFileSync('input2.txt', 'utf8')
+
 const compilador = (str) => {
     const arr = str.split("")
     let answer = 0
@@ -27,4 +31,4 @@ const compilador = (str) => {
     return log
 }
 
-console.log(compilador("&###@&*&###@@##@##&######@@#####@#@#@#@##@@@@@@@@@@@@@@@*&&@@@@@@@@@####@@@@@@@@@#########&#&##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@&"))
+console.log(compilador(data))
